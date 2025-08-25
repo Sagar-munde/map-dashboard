@@ -1,1 +1,1 @@
-# map-dashboard
+# gee-map-dashboard
